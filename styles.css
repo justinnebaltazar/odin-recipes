@@ -10,13 +10,18 @@ h2 {
     color: aliceblue
 }
 
-ul, a{
+.links, a{
     color: white;
     background-color: #4682B4;
 }
 
-h3 {
+h3, .banana-title {
     background-color: #0077b6;
     color: white;
     text-align: center;
+    font-family: 'Lucida Sans', Verdana, sans-serif;
+}
+
+.banana-bread {
+    font-family: 'Gill Sans', Verdana, sans-serif;
 }
