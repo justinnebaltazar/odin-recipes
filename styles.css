@@ -25,3 +25,17 @@ h3, .banana-title {
 .banana-bread {
     font-family: 'Gill Sans', Verdana, sans-serif;
 }
+
+.sourdough {
+    background-color: #6593f5;
+    font-family: Georgia, 'Times New Roman', serif;
+    font-weight: bold;
+}
+
+.description {
+    font-family: serif, Georgia;
+}
+
+.smaller {
+    font-size: 24px;
+}
