@@ -13,6 +13,7 @@ h2 {
 a{
     color: white;
     background-color: #4682B4;
+    font-size: 25px;
 }
 
 h3, .banana-title {
@@ -39,3 +40,15 @@ h3, .banana-title {
 .smaller {
     font-size: 24px;
 }
+
+div {
+    box-sizing: border-box;
+    width: 500px;
+    height: 300px;
+    background-color: #4682B4;
+    border: 10px solid #6593f5;
+    margin: 25px auto;
+    padding-top: 125px;
+    text-align: center;
+}
+
